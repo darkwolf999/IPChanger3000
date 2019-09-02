@@ -1,0 +1,24 @@
+C:\Users\Darkwolf\Desktop\IPChanger\IPChanger\bin\Debug\IPChanger.exe
+C:\Users\Darkwolf\Desktop\IPChanger\IPChanger\bin\Debug\IPChanger.pdb
+C:\Users\Darkwolf\Desktop\IPChanger\IPChanger\obj\x86\Debug\IPChanger.Properties.Resources.resources
+C:\Users\Darkwolf\Desktop\IPChanger\IPChanger\obj\x86\Debug\IPChanger.csproj.GenerateResource.Cache
+C:\Users\Darkwolf\Desktop\IPChanger\IPChanger\obj\x86\Debug\IPChanger.exe
+C:\Users\Darkwolf\Desktop\IPChanger\IPChanger\obj\x86\Debug\IPChanger.pdb
+C:\Users\Darkwolf\Desktop\IPChanger\IPChanger\obj\x86\Debug\IPChanger.csprojResolveAssemblyReference.cache
+C:\Users\Darkwolf\Desktop\IPChanger\IPChanger\obj\x86\Debug\IPChanger.Main.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger\IPChanger\obj\x86\Debug\IPChanger.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger\IPChanger\obj\x86\Debug\IPChanger.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger\IPChanger\bin\Debug\IPChanger.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger\IPChanger\bin\Debug\IPChanger.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger\IPChanger\obj\x86\Debug\IPChanger.csprojResolveAssemblyReference.cache
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger\IPChanger\obj\x86\Debug\IPChanger.Main.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger\IPChanger\obj\x86\Debug\IPChanger.Properties.Resources.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger\IPChanger\obj\x86\Debug\IPChanger.csproj.GenerateResource.Cache
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Debug\IPChanger.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Debug\IPChanger.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\bin\Debug\IPChanger.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\bin\Debug\IPChanger.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Debug\IPChanger.csprojResolveAssemblyReference.cache
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Debug\IPChanger.Main.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Debug\IPChanger.Properties.Resources.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Debug\IPChanger.csproj.GenerateResource.Cache

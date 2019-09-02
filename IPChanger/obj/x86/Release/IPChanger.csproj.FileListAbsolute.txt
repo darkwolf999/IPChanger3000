@@ -1,0 +1,14 @@
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\bin\Release\IPChanger.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\bin\Release\IPChanger.pdb
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.Main.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.Properties.Resources.resources
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.csproj.GenerateResource.Cache
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.exe
+C:\Users\Darkwolf\YandexDisk\Учеба\Программирование\IPChanger3000\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.pdb
+C:\Users\Darkwolf\Desktop\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.exe
+C:\Users\Darkwolf\Desktop\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.pdb
+C:\Users\Darkwolf\Desktop\IPChanger 2\IPChanger\bin\Release\IPChanger.exe
+C:\Users\Darkwolf\Desktop\IPChanger 2\IPChanger\bin\Release\IPChanger.pdb
+C:\Users\Darkwolf\Desktop\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.Main.resources
+C:\Users\Darkwolf\Desktop\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.Properties.Resources.resources
+C:\Users\Darkwolf\Desktop\IPChanger 2\IPChanger\obj\x86\Release\IPChanger.csproj.GenerateResource.Cache
